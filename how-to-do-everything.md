@@ -4,7 +4,23 @@
 
 {% hint style="info" %}
 This is a hint
+
+
 {% endhint %}
+
+{% hint style="warning" %}
+Exclamation Hint
+{% endhint %}
+
+{% hint style="danger" %}
+Triangle Exclamation Hint
+{% endhint %}
+
+{% hint style="success" %}
+Tick Hint
+{% endhint %}
+
+
 
 > This is a quote
 
