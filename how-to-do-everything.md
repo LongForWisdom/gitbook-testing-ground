@@ -70,3 +70,5 @@ $$
 Google Sheet Embed
 {% endembed %}
 
+> Page last reviewed: -\
+> Next review due: -
