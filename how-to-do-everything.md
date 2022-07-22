@@ -4,12 +4,16 @@
 
 \---
 
+Page Link:
 
+{% content-ref url="how-to-do-everything.md" %}
+[how-to-do-everything.md](how-to-do-everything.md)
+{% endcontent-ref %}
 
-
+\[Test]\([https://longforwisdom.gitbook.io/test/](https://longforwisdom.gitbook.io/test/))
 
 {% hint style="info" %}
-This is a hint
+This is a hint \[Test]\([https://longforwisdom.gitbook.io/test/](https://longforwisdom.gitbook.io/test/))
 
 
 {% endhint %}
