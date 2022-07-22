@@ -4,6 +4,20 @@
 
 \---
 
+
+
+Colours
+
+<mark style="color:blue;">Blue Text</mark>
+
+<mark style="background-color:blue;">Blue Backing</mark>
+
+<mark style="color:blue;"></mark>
+
+
+
+
+
 Page Link:
 
 {% content-ref url="how-to-do-everything.md" %}

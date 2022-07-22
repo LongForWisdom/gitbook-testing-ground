@@ -1,12 +1,14 @@
 # Page 2
 
-What is the **Maker Protocol**?
+## What is the <mark style="color:blue;">**Maker Protocol**</mark>?
 
 The Maker Protocol is a set of modular [smart contracts](https://ethereum.org/en/smart-contracts/) that exist on the Ethereum blockchain. These contracts define a system of interactions that result in the DAI stablecoin, Maker Vaults, the MKR token and MakerDAO. Actions in the Maker Protocol are performed by users interacting with the Ethereum blockchain.
 
 \*\*\*
 
-What is **DAI**?
+
+
+## What is <mark style="color:blue;">**DAI**</mark>?
 
 DAI is a fully collateralized, stable, decentralized currency pegged to the value of the U.S Dollar. DAI can be transacted using the Ethereum blockchain by anyone at any time.
 
