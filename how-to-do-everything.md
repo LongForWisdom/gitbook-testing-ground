@@ -13,7 +13,7 @@ Page Link:
 \[Test]\([https://longforwisdom.gitbook.io/test/](https://longforwisdom.gitbook.io/test/))
 
 {% hint style="info" %}
-This is a hint \[Test]\([https://longforwisdom.gitbook.io/test/](https://longforwisdom.gitbook.io/test/))
+This is a hint [Test](https://longforwisdom.gitbook.io/test/)
 
 
 {% endhint %}
