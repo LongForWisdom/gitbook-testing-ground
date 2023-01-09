@@ -88,5 +88,17 @@ $$
 Google Sheet Embed
 {% endembed %}
 
+* [ ] Task list 1
+* [ ] Task list 2
+
+| This | Is    | Table |
+| ---- | ----- | ----- |
+| 1    | TestA | 45    |
+| 2    | TestB | 123   |
+| 3    | TestC | 56    |
+|      |       |       |
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-type="number"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>What exactly are cards?</td><td></td><td>null</td><td><a href="how-to-do-everything.md">how-to-do-everything.md</a></td></tr><tr><td></td><td>These are cards.</td><td></td><td>null</td><td><a href="https://www.google.co.uk/">https://www.google.co.uk/</a></td></tr><tr><td></td><td>Great, thanks.</td><td></td><td>null</td><td></td></tr><tr><td>Even more cards</td><td>Text 2</td><td></td><td>2342</td><td></td></tr></tbody></table>
+
 > Page last reviewed: -\
 > Next review due: -
